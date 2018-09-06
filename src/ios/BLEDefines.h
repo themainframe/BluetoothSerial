@@ -29,7 +29,7 @@
 #define ADAFRUIT_CHAR_RX_UUID                         "6E400002-B5A3-F393-E0A9-E50E24DCCA9E"
 
 // SerialIO device, replacing the previous "Laird" brand one
-#define LAIRD_SERVICE_UUID                       "EBBF6B05-83A7-8E6F-F61D-934514078D34"
+#define LAIRD_SERVICE_UUID                       "175F8F23-A570-49BD-9627-815A6A27DE2A"
 #define LAIRD_CHAR_TX_UUID                       "1CCE1EA8-BD34-4813-A00A-C76E028FADCB"
 #define LAIRD_CHAR_RX_UUID                       "CACC07FF-FFFF-4C48-8FAE-A9EF71B75E26"
 
