@@ -30,8 +30,8 @@
 
 // SerialIO device, replacing the previous "Laird" brand one
 #define LAIRD_SERVICE_UUID                       "175F8F23-A570-49BD-9627-815A6A27DE2A"
-#define LAIRD_CHAR_TX_UUID                       "1CCE1EA8-BD34-4813-A00A-C76E028FADCB"
-#define LAIRD_CHAR_RX_UUID                       "CACC07FF-FFFF-4C48-8FAE-A9EF71B75E26"
+#define LAIRD_CHAR_TX_UUID                       "CACC07FF-FFFF-4C48-8FAE-A9EF71B75E26"
+#define LAIRD_CHAR_RX_UUID                       "1CCE1EA8-BD34-4813-A00A-C76E028FADCB"
 
 // HM-10 (unfortunately this is also the UUID for the TI simple key service)
 // http://processors.wiki.ti.com/index.php/SensorTag_User_Guide#Simple_Key_Service
